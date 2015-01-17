@@ -1,0 +1,16 @@
+{
+  "name": "example-nedb",
+  "version": "1.0.0",
+  "description": "Example which describes how to use the nedb module.",
+  "license": "MIT",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/npmawesome/example-nedb"
+  },
+  "dependencies": {
+    "nedb": "^1.1.1"
+  }
+}
